@@ -1,0 +1,13 @@
+.large {
+	font-size: 2em
+}	
+.color {
+	color: blue 
+}
+.border {
+	border: 4px double red;
+}
+.round {
+	border-radius: 50px;
+}
+
